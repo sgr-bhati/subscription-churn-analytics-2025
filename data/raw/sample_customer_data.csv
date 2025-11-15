@@ -1,0 +1,201 @@
+customer_id,gender,months_subscribed,subscription_type,streaming_quality,payment_mode,monthly_plan_cost,total_revenue,subscription_canceled,app_usage_hours,customer_rating,promo_email_clicks,device_type
+CUST_00000,Male,31,Annual,Standard,Credit Card,385.42,12333.44,No,4.23,5,1,Mobile
+CUST_00001,Female,38,Monthly,Standard,Wallet,275.22,10733.580000000002,No,3.61,2,8,Mobile
+CUST_00002,Male,31,Monthly,Premium,Wallet,153.5,4912.0,No,1.97,5,2,Mobile
+CUST_00003,Male,3,Annual,Premium,Wallet,453.81,1815.24,Yes,5.33,4,4,SmartTV
+CUST_00004,Male,29,Monthly,Premium,Debit Card,221.75,6652.5,Yes,4.89,5,9,SmartTV
+CUST_00005,Female,36,Annual,Standard,UPI,293.6,10863.2,No,4.12,4,7,Mobile
+CUST_00006,Male,22,Annual,Standard,UPI,456.91,10508.93,No,5.18,4,1,SmartTV
+CUST_00007,Male,38,Annual,Basic,UPI,329.91,12866.490000000002,No,5.27,4,5,Desktop
+CUST_00008,Male,44,Monthly,Standard,Debit Card,101.6,4572.0,No,4.4,4,11,Desktop
+CUST_00009,Female,14,Monthly,Standard,UPI,471.92,7078.8,No,5.1,4,4,Desktop
+CUST_00010,Male,42,Annual,Standard,Debit Card,331.47,14253.210000000001,Yes,4.34,2,9,Mobile
+CUST_00011,Male,28,Monthly,Premium,Wallet,199.71,5791.59,No,4.24,1,8,SmartTV
+CUST_00012,Male,35,Monthly,Basic,Credit Card,111.67,4020.12,No,3.9,3,11,Mobile
+CUST_00013,Male,12,Monthly,Standard,UPI,406.31,5282.03,No,4.64,1,4,SmartTV
+CUST_00014,Female,31,Annual,Basic,UPI,328.03,10496.96,No,1.37,4,1,Desktop
+CUST_00015,Male,6,Quarterly,Standard,Wallet,289.06,2023.42,Yes,5.34,2,4,Mobile
+CUST_00016,Female,21,Monthly,Basic,Credit Card,451.25,9927.5,Yes,5.3,5,11,SmartTV
+CUST_00017,Female,27,Monthly,Basic,Debit Card,403.87,11308.36,No,0.66,2,3,SmartTV
+CUST_00018,Female,1,Quarterly,Basic,Credit Card,117.25,234.5,Yes,5.04,4,10,Desktop
+CUST_00019,Male,41,Annual,Standard,Wallet,189.27,7949.34,No,1.21,2,6,Mobile
+CUST_00020,Female,44,Monthly,Standard,Wallet,160.82,7236.9,No,2.34,2,5,Mobile
+CUST_00021,Male,5,Monthly,Standard,Credit Card,383.78,2302.68,No,4.59,4,1,Mobile
+CUST_00022,Female,27,Annual,Premium,Debit Card,64.09,1794.52,No,1.38,2,11,Desktop
+CUST_00023,Female,27,Quarterly,Standard,Debit Card,305.45,8552.6,No,5.0,3,10,Mobile
+CUST_00024,Female,43,Quarterly,Basic,UPI,392.11,17252.84,No,5.08,3,10,Desktop
+CUST_00025,Female,43,Quarterly,Premium,Debit Card,443.54,19515.760000000002,No,3.29,2,4,Desktop
+CUST_00026,Female,19,Monthly,Basic,Credit Card,202.94,4058.8,No,0.54,5,6,Desktop
+CUST_00027,Female,29,Monthly,Premium,Wallet,418.57,12557.1,No,2.08,4,10,SmartTV
+CUST_00028,Female,10,Annual,Basic,UPI,98.78,1086.58,No,3.89,3,6,Mobile
+CUST_00029,Female,27,Annual,Premium,UPI,429.9,12037.199999999999,No,5.9,5,4,Mobile
+CUST_00030,Male,24,Annual,Basic,Wallet,106.37,2659.25,No,3.97,2,11,Desktop
+CUST_00031,Male,38,Annual,Premium,Debit Card,227.78,8883.42,No,1.93,5,8,Desktop
+CUST_00032,Female,32,Monthly,Standard,Wallet,407.78,13456.74,Yes,3.99,1,3,Mobile
+CUST_00033,Female,0,Monthly,Premium,Debit Card,116.46,116.46,No,3.47,3,10,Desktop
+CUST_00034,Female,26,Quarterly,Basic,Wallet,152.16,4108.32,No,4.79,2,2,Mobile
+CUST_00035,Male,12,Quarterly,Standard,Credit Card,374.01,4862.13,Yes,1.09,4,3,SmartTV
+CUST_00036,Female,40,Quarterly,Premium,Debit Card,373.02,15293.82,No,4.69,2,4,Desktop
+CUST_00037,Male,2,Quarterly,Standard,Credit Card,337.52,1012.56,No,3.48,4,5,Mobile
+CUST_00038,Male,38,Annual,Standard,UPI,361.28,14089.919999999998,No,5.8,2,2,Desktop
+CUST_00039,Male,5,Monthly,Standard,Wallet,293.23,1759.38,No,2.38,5,1,Mobile
+CUST_00040,Male,7,Monthly,Standard,UPI,162.31,1298.48,Yes,3.98,5,3,Mobile
+CUST_00041,Male,26,Monthly,Standard,UPI,204.56,5523.12,Yes,5.63,5,4,Desktop
+CUST_00042,Female,8,Monthly,Standard,UPI,130.72,1176.48,No,1.06,1,3,SmartTV
+CUST_00043,Female,36,Monthly,Premium,UPI,457.8,16938.600000000002,No,5.65,4,10,Mobile
+CUST_00044,Female,32,Monthly,Basic,Wallet,311.53,10280.49,No,4.28,5,11,Mobile
+CUST_00045,Female,41,Monthly,Basic,UPI,229.38,9633.96,No,0.87,1,2,Mobile
+CUST_00046,Female,43,Monthly,Premium,Wallet,256.9,11303.599999999999,No,2.16,4,7,SmartTV
+CUST_00047,Male,23,Monthly,Premium,Wallet,475.28,11406.72,No,4.39,2,9,SmartTV
+CUST_00048,Female,14,Monthly,Standard,Credit Card,118.01,1770.15,No,0.87,1,3,Desktop
+CUST_00049,Female,31,Monthly,Standard,Debit Card,312.8,10009.6,No,3.7,3,1,SmartTV
+CUST_00050,Male,31,Annual,Basic,Debit Card,276.65,8852.8,No,2.4,1,1,Desktop
+CUST_00051,Female,23,Monthly,Basic,Wallet,324.15,7779.599999999999,No,3.92,1,0,Desktop
+CUST_00052,Male,40,Monthly,Standard,Credit Card,57.15,2343.15,No,0.75,4,3,SmartTV
+CUST_00053,Female,11,Monthly,Standard,Wallet,441.46,5297.5199999999995,Yes,5.29,2,9,Desktop
+CUST_00054,Male,38,Quarterly,Standard,Wallet,468.45,18269.55,No,5.85,3,8,SmartTV
+CUST_00055,Female,1,Monthly,Basic,Wallet,303.31,606.62,Yes,5.83,5,10,Desktop
+CUST_00056,Female,2,Quarterly,Premium,Credit Card,362.49,1087.47,No,4.62,5,6,SmartTV
+CUST_00057,Male,36,Monthly,Premium,Debit Card,464.12,17172.44,No,1.22,1,11,SmartTV
+CUST_00058,Male,16,Monthly,Standard,Credit Card,367.26,6243.42,Yes,4.67,4,9,Desktop
+CUST_00059,Male,1,Monthly,Standard,UPI,117.64,235.28,No,0.64,4,6,Mobile
+CUST_00060,Male,1,Monthly,Standard,Credit Card,308.33,616.66,No,0.62,5,6,Desktop
+CUST_00061,Male,27,Quarterly,Premium,Credit Card,322.02,9016.56,No,2.28,3,7,SmartTV
+CUST_00062,Male,22,Quarterly,Standard,Credit Card,239.86,5516.780000000001,No,3.19,2,0,Mobile
+CUST_00063,Male,36,Annual,Basic,Credit Card,380.4,14074.8,No,4.74,3,9,Desktop
+CUST_00064,Male,31,Monthly,Premium,Debit Card,469.47,15023.04,No,4.26,2,9,Desktop
+CUST_00065,Female,32,Monthly,Premium,UPI,465.51,15361.83,No,2.95,5,7,Desktop
+CUST_00066,Female,0,Quarterly,Premium,Debit Card,251.88,251.88,No,2.0,2,3,Mobile
+CUST_00067,Male,18,Monthly,Standard,Debit Card,99.96,1899.2399999999998,No,5.98,4,3,SmartTV
+CUST_00068,Female,1,Monthly,Standard,Credit Card,492.18,984.36,No,2.84,1,3,Desktop
+CUST_00069,Female,43,Monthly,Standard,Wallet,426.5,18766.0,No,2.98,1,5,Desktop
+CUST_00070,Female,25,Monthly,Premium,Wallet,105.1,2732.6,No,1.4,5,6,Desktop
+CUST_00071,Female,31,Annual,Premium,Debit Card,463.38,14828.16,Yes,4.87,4,5,Desktop
+CUST_00072,Male,5,Annual,Basic,Debit Card,440.45,2642.7,No,4.32,3,0,Desktop
+CUST_00073,Female,31,Quarterly,Basic,Credit Card,282.48,9039.36,No,1.71,4,11,SmartTV
+CUST_00074,Male,3,Monthly,Standard,Debit Card,315.07,1260.28,Yes,0.95,1,7,SmartTV
+CUST_00075,Female,10,Monthly,Premium,Credit Card,228.55,2514.05,No,4.24,1,9,Desktop
+CUST_00076,Female,16,Monthly,Premium,Wallet,73.64,1251.88,No,4.1,4,10,Mobile
+CUST_00077,Female,37,Monthly,Basic,Wallet,199.84,7593.92,Yes,2.0,4,6,SmartTV
+CUST_00078,Male,23,Monthly,Standard,UPI,410.28,9846.72,No,5.73,1,5,Mobile
+CUST_00079,Female,4,Quarterly,Standard,Wallet,51.08,255.39999999999998,No,1.33,3,5,SmartTV
+CUST_00080,Male,33,Quarterly,Premium,Debit Card,199.07,6768.38,No,2.88,5,4,Desktop
+CUST_00081,Female,5,Monthly,Premium,Wallet,228.18,1369.08,No,5.69,5,5,SmartTV
+CUST_00082,Male,21,Annual,Premium,Credit Card,290.83,6398.259999999999,No,2.81,4,11,Desktop
+CUST_00083,Female,10,Quarterly,Standard,Wallet,462.94,5092.34,No,4.01,5,8,SmartTV
+CUST_00084,Male,47,Monthly,Standard,UPI,204.86,9833.28,No,2.69,1,9,Desktop
+CUST_00085,Male,15,Quarterly,Basic,Wallet,205.13,3282.08,No,2.01,1,8,Desktop
+CUST_00086,Female,32,Monthly,Basic,Credit Card,380.88,12569.039999999999,No,5.91,4,9,Desktop
+CUST_00087,Male,8,Monthly,Premium,Credit Card,252.5,2272.5,No,2.75,4,7,Desktop
+CUST_00088,Female,5,Monthly,Premium,Debit Card,150.07,900.42,Yes,5.42,4,9,Mobile
+CUST_00089,Female,15,Quarterly,Premium,Wallet,252.6,4041.6,No,1.76,3,8,Desktop
+CUST_00090,Female,28,Monthly,Premium,Credit Card,112.39,3259.31,No,1.67,5,9,Mobile
+CUST_00091,Female,2,Monthly,Standard,UPI,128.37,385.11,Yes,0.67,4,7,Mobile
+CUST_00092,Female,19,Monthly,Standard,Debit Card,273.27,5465.4,Yes,4.08,2,7,Desktop
+CUST_00093,Female,35,Monthly,Premium,UPI,237.52,8550.720000000001,No,2.53,2,0,Mobile
+CUST_00094,Female,18,Annual,Premium,Wallet,460.68,8752.92,No,5.25,1,9,SmartTV
+CUST_00095,Female,25,Quarterly,Basic,Wallet,212.08,5514.08,No,3.1,5,10,Desktop
+CUST_00096,Female,2,Monthly,Standard,Wallet,310.26,930.78,Yes,5.83,4,4,Mobile
+CUST_00097,Female,18,Monthly,Basic,Debit Card,333.52,6336.879999999999,No,1.52,2,3,Desktop
+CUST_00098,Female,19,Monthly,Premium,Credit Card,54.89,1097.8,No,5.28,5,1,Desktop
+CUST_00099,Male,31,Monthly,Standard,Debit Card,347.59,11122.88,No,4.77,1,7,Desktop
+CUST_00100,Male,6,Monthly,Basic,UPI,129.12,903.84,No,4.74,3,2,Mobile
+CUST_00101,Female,40,Monthly,Standard,Debit Card,481.48,19740.68,No,5.15,5,3,SmartTV
+CUST_00102,Female,32,Monthly,Standard,UPI,115.9,3824.7000000000003,No,4.69,5,11,SmartTV
+CUST_00103,Female,39,Quarterly,Standard,Debit Card,235.58,9423.2,No,3.94,3,6,Mobile
+CUST_00104,Female,38,Quarterly,Basic,Credit Card,87.41,3408.99,No,1.22,5,9,Desktop
+CUST_00105,Female,17,Monthly,Standard,UPI,497.59,8956.619999999999,Yes,0.68,1,8,Mobile
+CUST_00106,Female,39,Monthly,Standard,Wallet,274.99,10999.6,No,5.56,1,1,Mobile
+CUST_00107,Female,0,Quarterly,Standard,Wallet,316.92,316.92,Yes,3.89,3,2,Mobile
+CUST_00108,Female,10,Monthly,Standard,Debit Card,79.18,870.98,No,4.88,4,3,Desktop
+CUST_00109,Male,27,Annual,Premium,Wallet,386.48,10821.44,No,3.15,2,9,Mobile
+CUST_00110,Female,24,Quarterly,Standard,UPI,143.46,3586.5,No,1.15,4,0,Desktop
+CUST_00111,Male,22,Monthly,Standard,Wallet,453.12,10421.76,No,1.19,5,6,Mobile
+CUST_00112,Female,30,Monthly,Premium,Credit Card,141.31,4380.61,No,4.27,2,1,SmartTV
+CUST_00113,Female,29,Quarterly,Standard,Credit Card,134.81,4044.3,No,2.87,3,4,Mobile
+CUST_00114,Male,41,Monthly,Basic,Debit Card,65.45,2748.9,No,1.6,3,0,Mobile
+CUST_00115,Female,34,Monthly,Basic,UPI,261.43,9150.050000000001,No,3.2,2,2,SmartTV
+CUST_00116,Male,6,Annual,Standard,Credit Card,303.18,2122.26,No,0.85,1,11,Desktop
+CUST_00117,Female,15,Monthly,Standard,Credit Card,78.57,1257.12,No,3.7,2,1,Desktop
+CUST_00118,Female,25,Monthly,Standard,UPI,397.99,10347.74,No,1.98,5,0,Mobile
+CUST_00119,Male,47,Quarterly,Basic,Wallet,252.98,12143.039999999999,No,4.89,1,6,SmartTV
+CUST_00120,Female,1,Monthly,Basic,Wallet,284.98,569.96,No,2.21,3,4,Desktop
+CUST_00121,Male,0,Monthly,Basic,Debit Card,247.34,247.34,No,3.0,2,0,Mobile
+CUST_00122,Female,47,Annual,Standard,Wallet,229.34,11008.32,No,0.56,4,5,SmartTV
+CUST_00123,Male,11,Monthly,Standard,UPI,300.84,3610.08,No,0.9,4,4,Desktop
+CUST_00124,Male,4,Annual,Standard,Credit Card,118.86,594.3,No,2.66,5,2,Desktop
+CUST_00125,Female,36,Annual,Standard,Wallet,130.87,4842.1900000000005,Yes,3.14,4,11,SmartTV
+CUST_00126,Female,31,Monthly,Premium,Debit Card,436.8,13977.6,No,3.8,2,6,SmartTV
+CUST_00127,Male,8,Monthly,Standard,Wallet,474.75,4272.75,No,2.1,2,10,SmartTV
+CUST_00128,Female,40,Monthly,Standard,UPI,216.99,8896.59,No,4.32,4,9,SmartTV
+CUST_00129,Female,34,Monthly,Standard,Debit Card,170.84,5979.400000000001,No,5.23,2,8,Mobile
+CUST_00130,Female,18,Monthly,Standard,Wallet,338.8,6437.2,Yes,4.79,5,8,SmartTV
+CUST_00131,Male,47,Quarterly,Standard,Debit Card,232.93,11180.64,Yes,0.72,1,8,Desktop
+CUST_00132,Male,15,Monthly,Premium,UPI,60.42,966.72,No,3.14,5,1,Desktop
+CUST_00133,Male,2,Monthly,Premium,Credit Card,119.27,357.81,No,1.08,5,2,Mobile
+CUST_00134,Male,19,Annual,Basic,UPI,371.19,7423.8,No,1.83,2,6,Desktop
+CUST_00135,Male,23,Monthly,Premium,UPI,345.52,8292.48,No,5.93,1,4,Desktop
+CUST_00136,Male,32,Annual,Standard,UPI,61.19,2019.27,No,1.28,2,1,SmartTV
+CUST_00137,Male,23,Monthly,Basic,UPI,148.89,3573.3599999999997,No,3.24,3,2,Desktop
+CUST_00138,Male,10,Monthly,Standard,Credit Card,152.98,1682.78,No,3.9,2,9,Mobile
+CUST_00139,Male,7,Quarterly,Premium,Credit Card,351.35,2810.8,Yes,4.36,2,5,SmartTV
+CUST_00140,Female,35,Quarterly,Standard,Debit Card,57.87,2083.3199999999997,No,3.58,2,6,SmartTV
+CUST_00141,Male,37,Annual,Standard,Wallet,95.85,3642.2999999999997,No,0.55,1,8,Mobile
+CUST_00142,Female,39,Quarterly,Standard,Credit Card,408.96,16358.4,No,2.3,2,0,SmartTV
+CUST_00143,Female,19,Annual,Basic,Credit Card,129.35,2587.0,No,3.35,1,10,SmartTV
+CUST_00144,Female,34,Monthly,Basic,Wallet,342.74,11995.9,No,0.98,4,6,Mobile
+CUST_00145,Male,47,Monthly,Basic,Credit Card,156.18,7496.64,Yes,2.43,3,7,SmartTV
+CUST_00146,Male,24,Quarterly,Basic,UPI,93.75,2343.75,No,0.68,1,11,Mobile
+CUST_00147,Male,34,Annual,Basic,UPI,158.43,5545.05,No,0.93,4,2,Mobile
+CUST_00148,Male,24,Annual,Basic,Wallet,374.02,9350.5,No,2.68,1,3,Desktop
+CUST_00149,Female,28,Monthly,Standard,Debit Card,434.06,12587.74,No,1.23,1,9,Desktop
+CUST_00150,Male,17,Monthly,Basic,Debit Card,422.6,7606.8,No,3.62,3,5,SmartTV
+CUST_00151,Male,45,Quarterly,Standard,Wallet,227.73,10475.58,No,4.29,5,9,SmartTV
+CUST_00152,Male,17,Monthly,Premium,Wallet,349.64,6293.5199999999995,No,4.9,5,6,Mobile
+CUST_00153,Male,1,Annual,Standard,UPI,141.24,282.48,Yes,1.6,1,3,SmartTV
+CUST_00154,Male,34,Annual,Standard,Debit Card,180.92,6332.2,No,1.42,2,7,Mobile
+CUST_00155,Female,15,Monthly,Basic,Credit Card,452.35,7237.6,Yes,1.08,4,4,Mobile
+CUST_00156,Male,40,Quarterly,Basic,UPI,54.85,2248.85,No,4.0,2,0,SmartTV
+CUST_00157,Female,35,Quarterly,Basic,Wallet,87.48,3149.28,No,4.39,2,3,Mobile
+CUST_00158,Male,32,Monthly,Basic,Debit Card,142.55,4704.150000000001,Yes,0.67,1,2,Desktop
+CUST_00159,Female,3,Annual,Basic,Credit Card,60.94,243.76,No,5.65,1,8,SmartTV
+CUST_00160,Male,32,Monthly,Basic,Credit Card,130.65,4311.45,No,0.79,1,7,Desktop
+CUST_00161,Male,13,Annual,Basic,UPI,311.37,4359.18,No,3.48,1,0,SmartTV
+CUST_00162,Female,20,Monthly,Basic,Debit Card,238.64,5011.44,No,4.4,5,10,Mobile
+CUST_00163,Female,47,Annual,Standard,Debit Card,450.7,21633.6,Yes,5.29,1,5,SmartTV
+CUST_00164,Female,19,Monthly,Basic,Wallet,416.85,8337.0,No,4.43,5,8,Desktop
+CUST_00165,Male,7,Monthly,Standard,Debit Card,202.82,1622.56,No,4.91,5,6,Mobile
+CUST_00166,Female,6,Annual,Standard,Debit Card,165.74,1160.18,No,2.37,1,3,SmartTV
+CUST_00167,Male,2,Monthly,Standard,UPI,219.86,659.58,Yes,4.98,3,0,SmartTV
+CUST_00168,Male,16,Monthly,Basic,Debit Card,314.63,5348.71,No,0.94,4,11,SmartTV
+CUST_00169,Female,32,Annual,Standard,Credit Card,169.63,5597.79,No,5.42,2,1,Desktop
+CUST_00170,Female,47,Annual,Standard,UPI,329.87,15833.76,No,3.51,5,11,Desktop
+CUST_00171,Male,11,Monthly,Basic,UPI,233.24,2798.88,No,5.0,4,4,SmartTV
+CUST_00172,Male,21,Quarterly,Premium,Wallet,297.42,6543.240000000001,No,2.99,3,11,Mobile
+CUST_00173,Female,21,Monthly,Premium,Debit Card,245.26,5395.719999999999,No,4.04,2,10,Mobile
+CUST_00174,Female,45,Monthly,Basic,Wallet,181.51,8349.46,Yes,3.4,2,4,Desktop
+CUST_00175,Female,29,Monthly,Basic,Credit Card,475.8,14274.0,No,4.52,5,7,Mobile
+CUST_00176,Male,37,Quarterly,Premium,UPI,392.62,14919.56,No,0.95,1,5,Desktop
+CUST_00177,Male,37,Quarterly,Standard,UPI,112.05,4257.9,Yes,0.83,3,7,SmartTV
+CUST_00178,Male,44,Quarterly,Basic,UPI,439.81,19791.45,No,1.86,5,1,Desktop
+CUST_00179,Male,7,Quarterly,Basic,Credit Card,268.34,2146.72,No,1.38,3,2,Desktop
+CUST_00180,Male,26,Monthly,Standard,Credit Card,451.55,12191.85,No,5.29,1,5,SmartTV
+CUST_00181,Male,26,Monthly,Standard,Wallet,408.93,11041.11,No,1.71,1,11,Mobile
+CUST_00182,Female,33,Monthly,Standard,Wallet,240.35,8171.9,No,5.87,5,9,Desktop
+CUST_00183,Male,20,Monthly,Standard,Wallet,59.11,1241.31,No,2.35,1,2,Desktop
+CUST_00184,Male,29,Monthly,Standard,Debit Card,169.9,5097.0,Yes,1.5,4,5,SmartTV
+CUST_00185,Male,32,Annual,Standard,UPI,292.74,9660.42,No,4.84,2,5,Mobile
+CUST_00186,Female,27,Monthly,Basic,UPI,334.07,9353.96,No,4.12,5,1,Desktop
+CUST_00187,Male,46,Monthly,Basic,Wallet,165.05,7757.35,No,3.24,3,6,SmartTV
+CUST_00188,Male,32,Monthly,Standard,UPI,111.71,3686.43,No,3.55,4,11,Desktop
+CUST_00189,Female,4,Quarterly,Premium,Wallet,424.72,2123.6000000000004,No,4.46,5,1,SmartTV
+CUST_00190,Male,47,Quarterly,Standard,Debit Card,491.98,23615.04,Yes,1.76,1,5,Mobile
+CUST_00191,Male,18,Monthly,Standard,Debit Card,285.56,5425.64,No,5.98,1,0,Mobile
+CUST_00192,Male,3,Monthly,Basic,Credit Card,126.26,505.04,No,5.86,1,2,Mobile
+CUST_00193,Male,34,Quarterly,Standard,Debit Card,171.54,6003.9,Yes,4.08,1,1,Mobile
+CUST_00194,Male,16,Monthly,Standard,Wallet,57.28,973.76,No,1.6,3,6,Desktop
+CUST_00195,Female,43,Annual,Basic,Debit Card,460.43,20258.920000000002,No,4.24,4,3,Desktop
+CUST_00196,Female,27,Quarterly,Basic,Credit Card,101.99,2855.72,No,0.9,2,7,Mobile
+CUST_00197,Female,29,Monthly,Standard,UPI,308.43,9252.9,No,0.67,3,5,Mobile
+CUST_00198,Male,28,Monthly,Basic,Wallet,172.32,4997.28,No,1.92,3,11,Mobile
+CUST_00199,Male,45,Annual,Standard,UPI,298.38,13725.48,No,3.04,2,9,Desktop
