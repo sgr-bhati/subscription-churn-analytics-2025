@@ -39,7 +39,7 @@ This day focuses exclusively on the **Logistic Model Path**.
 ---
 
 ## Initial Model Performance (Baseline)
-- Churn recall was low (~49%)
+- Churn recall was low (~51%)
 - Model biased toward majority (non-churn) class
 
 This prompted **class imbalance handling**.
